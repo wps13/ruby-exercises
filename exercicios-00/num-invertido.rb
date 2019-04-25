@@ -1,3 +1,7 @@
+# Exercicio 5 
+
+# Dado um valor de 4 digitos, retornar uma variavél com os valores invertidos
+# Exemplo : 1234 -> 4321
 
 puts "Insira um número de 4 digitos"
 
