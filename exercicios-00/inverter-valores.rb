@@ -1,3 +1,9 @@
+#Exercicio 6
+
+#Dado dois valores, inverter os valores nas variavéis
+
+#Exemplo: caso seja inserido x=66 e y = 99, retorna x=99 e y=66
+
 puts "Insira o valor de X:"
 
 x = gets.to_i
